@@ -1,0 +1,1063 @@
+ID,Frage_ID,Frage,Antwortart,Antwort,Antwort 2
+1,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+1,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+1,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+1,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,2"
+1,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Wenig Fahrradwege, Ampelschaltung"
+1,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+1,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Fassade,NA
+1,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,9,10",NA
+1,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+1,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+1,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+1,F12,Wie möchtest du dich beteildigen?,MC,1,NA
+1,F13,Wohnst du im Projektgebiet?,BI,1,NA
+1,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+1,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+1,F16,eMail,F,NA,NA
+1,F17,Alter,MC,1,NA
+1,F18,Unterwegs mit?,MC,1,NA
+2,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,5",NA
+2,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Brache2,Elsapark",NA
+2,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,NA
+2,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,2"
+2,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,Parallelstraßen
+2,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Luft, Biodiversität, Lebensqualität"
+2,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Fassade, Brache, Pflanzenkübel, Otto-Runki-Platz",NA
+2,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,9,10,11",NA
+2,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,weitläufige Flächen
+2,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+2,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+2,F12,Wie möchtest du dich beteildigen?,MC,7,passiv
+2,F13,Wohnst du im Projektgebiet?,BI,1,NA
+2,F14,In welcher Straße wohnst du?,F,Meißner Straße,NA
+2,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+2,F16,eMail,F,lbreuer@posteo.net,NA
+2,F17,Alter,MC,4,NA
+2,F18,Unterwegs mit?,MC,3,NA
+3,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,2,NA
+3,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+3,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+3,F04,Wie bewegst du dich im Projekt fort?,MC,2,NA
+3,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+3,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+3,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,überall,NA
+3,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8,9,10,11,12",NA
+3,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,NA
+3,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+3,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+3,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+3,F13,Wohnst du im Projektgebiet?,BI,0,NA
+3,F14,In welcher Straße wohnst du?,F,NA,NA
+3,F15,In welchem Stadtteil wohnst du?,F,Kleinzschocher,NA
+3,F16,eMail,F,NA,NA
+3,F17,Alter,MC,4,NA
+3,F18,Unterwegs mit?,MC,0,NA
+4,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+4,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Rabet, Brücke Kohlweg",NA
+4,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,Catcalls
+4,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,3"
+4,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Eisenbahnstraße, Autoverkehr"
+4,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Biodiversität, Klima"
+4,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Pflanzenkübel, Platzverteilung",NA
+4,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,9,10,11,12",NA
+4,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+4,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+4,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+4,F12,Wie möchtest du dich beteildigen?,MC,"2,3",NA
+4,F13,Wohnst du im Projektgebiet?,BI,1,NA
+4,F14,In welcher Straße wohnst du?,F,Ludwigstraße,NA
+4,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+4,F16,eMail,F,tanjaaziza@gmail.com,schlecht lesbar
+4,F17,Alter,MC,4,NA
+4,F18,Unterwegs mit?,MC,4,NA
+5,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+5,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Rabet, Mariannenpark",NA
+5,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,Catcalls
+5,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,5","1,1,2,3"
+5,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+5,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensqualität
+5,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Hochbeet, Dach, Bienenwiesen",NA
+5,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,11",NA
+5,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Umzug
+5,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+5,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+5,F12,Wie möchtest du dich beteildigen?,MC,"2,3",NA
+5,F13,Wohnst du im Projektgebiet?,BI,1,NA
+5,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+5,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+5,F16,eMail,F,NA,NA
+5,F17,Alter,MC,3,NA
+5,F18,Unterwegs mit?,MC,4,NA
+6,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+6,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+6,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,NA
+6,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","1,2"
+6,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+6,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Natur
+6,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Fußwege, Haltestellen",NA
+6,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,7",NA
+6,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+6,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+6,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+6,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+6,F13,Wohnst du im Projektgebiet?,BI,1,NA
+6,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+6,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+6,F16,eMail,F,NA,NA
+6,F17,Alter,MC,3,NA
+6,F18,Unterwegs mit?,MC,4,NA
+7,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+7,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brache,NA
+7,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,Catcalls
+7,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,9",NA
+7,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+7,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+7,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,überall,NA
+7,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,7,9,12",NA
+7,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+7,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,Angst vor Aufwertung
+7,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,0
+7,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+7,F13,Wohnst du im Projektgebiet?,BI,1,NA
+7,F14,In welcher Straße wohnst du?,F,Eisenbahnstraße,NA
+7,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+7,F16,eMail,F,NA,NA
+7,F17,Alter,MC,4,NA
+7,F18,Unterwegs mit?,MC,4,NA
+8,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+8,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Eastpark,NA
+8,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Brücke Herrmann-Liebmann,NA
+8,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","1,2"
+8,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+8,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Klima"
+8,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Baumscheiben,NA
+8,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,8,11,12",NA
+8,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+8,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+8,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+8,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+8,F13,Wohnst du im Projektgebiet?,BI,1,NA
+8,F14,In welcher Straße wohnst du?,F,Eisenbahnstraße,NA
+8,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+8,F16,eMail,F,NA,NA
+8,F17,Alter,MC,NA,NA
+8,F18,Unterwegs mit?,MC,NA,NA
+9,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+9,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+9,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,NA
+9,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,1"
+9,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Eisenbahnstraße, Autoverkehr"
+9,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Biodiversität
+9,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Fenster,NA
+9,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,NA,NA
+9,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+9,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+9,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+9,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+9,F13,Wohnst du im Projektgebiet?,BI,0,NA
+9,F14,In welcher Straße wohnst du?,F,NA,NA
+9,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+9,F16,eMail,F,NA,NA
+9,F17,Alter,MC,3,NA
+9,F18,Unterwegs mit?,MC,4,NA
+10,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,2",NA
+10,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+10,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,NA
+10,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4","1,3,1"
+10,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+10,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+10,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,0,NA
+10,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,NA,NA
+10,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+10,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+10,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+10,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+10,F13,Wohnst du im Projektgebiet?,BI,0,NA
+10,F14,In welcher Straße wohnst du?,F,NA,NA
+10,F15,In welchem Stadtteil wohnst du?,F,Sellehausen,NA
+10,F16,eMail,F,NA,NA
+10,F17,Alter,MC,NA,NA
+10,F18,Unterwegs mit?,MC,NA,NA
+11,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+11,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Brache, Eastpark",NA
+11,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,Catcalls
+11,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,2,2"
+11,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Catcalls, Autoverkehr"
+11,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+11,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+11,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,12",NA
+11,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+11,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+11,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+11,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+11,F13,Wohnst du im Projektgebiet?,BI,1,NA
+11,F14,In welcher Straße wohnst du?,F,Elisabethstraße,NA
+11,F15,In welchem Stadtteil wohnst du?,F,0,NA
+11,F16,eMail,F,0,NA
+11,F17,Alter,MC,3,NA
+11,F18,Unterwegs mit?,MC,4,NA
+12,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+12,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Elsapark,NA
+12,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,"Aldi, Orte mit Müll",NA
+12,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,4","1,1,1,1"
+12,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,zugeparkte Kreuzungen
+12,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+12,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Brachen, Bäume Pflanzen",NA
+12,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,5",NA
+12,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,"Spielplätze, mehr grün"
+12,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+12,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+12,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+12,F13,Wohnst du im Projektgebiet?,BI,1,NA
+12,F14,In welcher Straße wohnst du?,F,Ludwigstraße,NA
+12,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+12,F16,eMail,F,NA,NA
+12,F17,Alter,MC,4,NA
+13,F18,Unterwegs mit?,MC,3,NA
+13,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,2",NA
+13,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Mariannenpark,NA
+13,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,schattige Plätze,NA
+13,F04,Wie bewegst du dich im Projekt fort?,MC,2,1
+13,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Eisenbahnstraße, Autoverkehr"
+13,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Biodiversität"
+13,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+13,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,9,10,11",NA
+13,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr grün
+13,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+13,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+13,F12,Wie möchtest du dich beteildigen?,MC,"2,3",NA
+13,F13,Wohnst du im Projektgebiet?,BI,1,NA
+13,F14,In welcher Straße wohnst du?,F,Bülowstraße,NA
+13,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+13,F16,eMail,F,l.gronemann@gmx.de,NA
+13,F17,Alter,MC,4,NA
+13,F18,Unterwegs mit?,MC,4,NA
+14,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+14,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,überall,NA
+14,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+14,F04,Wie bewegst du dich im Projekt fort?,MC,1,1
+14,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+14,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensqualität
+14,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Hinterhöfe, Bakone, leere Flächen",NA
+14,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"5,7,8,9",NA
+14,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+14,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+14,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+14,F12,Wie möchtest du dich beteildigen?,MC,5,NA
+14,F13,Wohnst du im Projektgebiet?,BI,1,NA
+14,F14,In welcher Straße wohnst du?,F,Ludwigstraße,NA
+14,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+14,F16,eMail,F,lukasschulze5@web.de,NA
+14,F17,Alter,MC,3,NA
+14,F18,Unterwegs mit?,MC,4,NA
+15,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+15,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brache,NA
+15,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+15,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3",NA
+15,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+15,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensqualität
+15,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Dächer, Pflanzenkübel, Hängetöpfe",NA
+15,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8,10",NA
+15,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Ruheflächen
+15,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+15,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+15,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+15,F13,Wohnst du im Projektgebiet?,BI,1,NA
+15,F14,In welcher Straße wohnst du?,F,Schützenhausstraße,NA
+15,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+15,F16,eMail,F,NA,NA
+15,F17,Alter,MC,NA,NA
+15,F18,Unterwegs mit?,MC,NA,NA
+16,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+16,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Spielplätze, Park",NA
+16,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,"Eisenbahnstraße, Rabet","Autoverkehr, dreckig"
+16,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4","1,1,2"
+16,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Wenig Fahrradwege
+16,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Lebensqualität, Lärm"
+16,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Mariannenstraße, Parks statt Wagenburg",NA
+16,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8,10,11,13",Papierkörbe
+16,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr grün
+16,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+16,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+16,F12,Wie möchtest du dich beteildigen?,MC,"1,2,3,4,5,6","englisch, polnisch, tschechisch"
+16,F13,Wohnst du im Projektgebiet?,BI,1,NA
+16,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+16,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+16,F16,eMail,F,arlette.meissner@web.de,NA
+16,F17,Alter,MC,4,NA
+16,F18,Unterwegs mit?,MC,4,NA
+17,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+17,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Eastpark, Mariannenstraße",NA
+17,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,"Aldi, Hildegardstraße, Rabet, Kriminalität",NA
+17,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,4","1,2,2,1"
+17,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+17,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Lebensqualität"
+17,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Mariannenstraße, Erweiterung Parks",NA
+17,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,5,7,8,9,10",NA
+17,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+17,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+17,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+17,F12,Wie möchtest du dich beteildigen?,MC,"1,4,5,6",armenisch
+17,F13,Wohnst du im Projektgebiet?,BI,1,NA
+17,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+17,F15,In welchem Stadtteil wohnst du?,F,0,NA
+17,F16,eMail,F,d.rushanyan@hotmail.com,NA
+17,F17,Alter,MC,3,NA
+17,F18,Unterwegs mit?,MC,3,NA
+18,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+18,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+18,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+18,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","2,2"
+18,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,verrückte Menschen
+18,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensqualität
+18,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Brachen,NA
+18,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,7,9,11",NA
+18,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+18,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+18,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+18,F12,Wie möchtest du dich beteildigen?,MC,4,"arabisch, türkisch"
+18,F13,Wohnst du im Projektgebiet?,BI,0,NA
+18,F14,In welcher Straße wohnst du?,F,NA,NA
+18,F15,In welchem Stadtteil wohnst du?,F,Merseburg,NA
+18,F16,eMail,F,ameralabboush@gmail.com,NA
+18,F17,Alter,MC,4,NA
+18,F18,Unterwegs mit?,MC,4,NA
+19,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+19,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+19,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Straßen,NA
+19,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,2"
+19,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Autoverkehr, verrückte Menschen"
+19,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+19,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+19,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,9",NA
+19,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+19,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+19,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+19,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+19,F13,Wohnst du im Projektgebiet?,BI,1,NA
+19,F14,In welcher Straße wohnst du?,F,Edlichstraße,NA
+19,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+19,F16,eMail,F,NA,NA
+19,F17,Alter,MC,2,NA
+19,F18,Unterwegs mit?,MC,4,NA
+20,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+20,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+20,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,vor der Brache,Belästigung
+20,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,5","1,1,2,3"
+20,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Wenig Fahrradwege
+20,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+20,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+20,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,8,11",NA
+20,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Nutzung von Freiflächen
+20,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+20,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+20,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+20,F13,Wohnst du im Projektgebiet?,BI,1,NA
+20,F14,In welcher Straße wohnst du?,F,Konradstraße,NA
+20,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+20,F16,eMail,F,NA,NA
+20,F17,Alter,MC,3,NA
+20,F18,Unterwegs mit?,MC,4,NA
+21,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+21,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Kohlweg,NA
+21,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+21,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,5","2,1,3,3"
+21,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Wenig Fahrradwege
+21,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+21,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+21,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8",NA
+21,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+21,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+21,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+21,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+21,F13,Wohnst du im Projektgebiet?,BI,0,NA
+21,F14,In welcher Straße wohnst du?,F,NA,NA
+21,F15,In welchem Stadtteil wohnst du?,F,Schönefeld,NA
+21,F16,eMail,F,NA,NA
+21,F17,Alter,MC,4,NA
+21,F18,Unterwegs mit?,MC,4,NA
+22,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"2,3,6",NA
+22,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+22,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Hauptstraßen,NA
+22,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,1"
+22,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Müll, komische Gestalten, Bahnen, Betrunkene"
+22,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+22,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Bäume. Büsche, Hochbeete",NA
+22,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,3,7,8,9,10,11,12",NA
+22,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+22,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+22,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+22,F12,Wie möchtest du dich beteildigen?,MC,"1,2",NA
+22,F13,Wohnst du im Projektgebiet?,BI,0,NA
+22,F14,In welcher Straße wohnst du?,F,NA,NA
+22,F15,In welchem Stadtteil wohnst du?,F,Halle,NA
+22,F16,eMail,F,NA,NA
+22,F17,Alter,MC,4,NA
+22,F18,Unterwegs mit?,MC,NA,NA
+23,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+23,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Elsapark, Mariannenpark",NA
+23,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,"Kreuzung Eisenbahnstraße Herrmann-Liebmann, Aldi, Rabet",NA
+23,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2",NA
+23,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,"Kreuzung Eisenbahnstraße Herrmann-Liebmann, Aldi, dreckig"
+23,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+23,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Bäume, essbare Pflanzen auf Brachen, Parks, Freiflächen",NA
+23,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,11,12",NA
+23,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Freiflächen
+23,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+23,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+23,F12,Wie möchtest du dich beteildigen?,MC,"2,6",NA
+23,F13,Wohnst du im Projektgebiet?,BI,0,NA
+23,F14,In welcher Straße wohnst du?,F,NA,NA
+23,F15,In welchem Stadtteil wohnst du?,F,Reudnitz,NA
+23,F16,eMail,F,mariella.bothke@web.de,NA
+23,F17,Alter,MC,3,NA
+23,F18,Unterwegs mit?,MC,4,NA
+24,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"3,4",NA
+24,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Eastpark,NA
+24,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Nachts in Seitenstraßen,NA
+24,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4","2,2,2"
+24,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+24,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Lärm"
+24,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Baumscheiben,NA
+24,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,8,9,11",NA
+24,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr grün
+24,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+24,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+24,F12,Wie möchtest du dich beteildigen?,MC,"1,2",NA
+24,F13,Wohnst du im Projektgebiet?,BI,0,NA
+24,F14,In welcher Straße wohnst du?,F,NA,NA
+24,F15,In welchem Stadtteil wohnst du?,F,Südvorstadt,NA
+24,F16,eMail,F,rh.constructive@gmail.com,NA
+24,F17,Alter,MC,4,NA
+24,F18,Unterwegs mit?,MC,4,NA
+25,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,4,5",NA
+25,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Rabet, Mariannenpark",NA
+25,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,NA
+25,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","1,1"
+25,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,Autoverkehr
+25,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Lebensqualität"
+25,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,1,"über Grafittiflächen, Tramstation"
+25,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,8,9,10",NA
+25,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Menschen haben jetzt Angst
+25,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+25,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+25,F12,Wie möchtest du dich beteildigen?,MC,"1,2,4","englisch, arabisch"
+25,F13,Wohnst du im Projektgebiet?,BI,1,NA
+25,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+25,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+25,F16,eMail,F,aliamine260@yahoo.com,NA
+25,F17,Alter,MC,4,NA
+25,F18,Unterwegs mit?,MC,3,NA
+26,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+26,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brache,NA
+26,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,NA
+26,F04,Wie bewegst du dich im Projekt fort?,MC,NA,NA
+26,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,NA,NA
+26,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,NA,NA
+26,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+26,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,NA,NA
+26,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+26,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+26,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+26,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+26,F13,Wohnst du im Projektgebiet?,BI,NA,NA
+26,F14,In welcher Straße wohnst du?,F,NA,NA
+26,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+26,F16,eMail,F,NA,NA
+26,F17,Alter,MC,NA,NA
+26,F18,Unterwegs mit?,MC,NA,NA
+27,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+27,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Park,NA
+27,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+27,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,5","1,3,3"
+27,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+27,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+27,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+27,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"5,7,8,9",NA
+27,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+27,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+27,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+27,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+27,F13,Wohnst du im Projektgebiet?,BI,0,NA
+27,F14,In welcher Straße wohnst du?,F,NA,NA
+27,F15,In welchem Stadtteil wohnst du?,F,Gera,NA
+27,F16,eMail,F,NA,NA
+27,F17,Alter,MC,3,NA
+27,F18,Unterwegs mit?,MC,4,NA
+28,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+28,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Fahrradbrücke,NA
+28,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+28,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","1,1"
+28,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+28,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Lärm"
+28,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Bäume in Eisenbahnstraße,NA
+28,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,7,NA
+28,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+28,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+28,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+28,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+28,F13,Wohnst du im Projektgebiet?,BI,1,NA
+28,F14,In welcher Straße wohnst du?,F,Eisenbahnstraße,NA
+28,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+28,F16,eMail,F,NA,NA
+28,F17,Alter,MC,3,NA
+28,F18,Unterwegs mit?,MC,4,NA
+29,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+29,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Basketball Court,NA
+29,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Brache,Übergriffig
+29,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,3,2"
+29,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+29,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lärm
+29,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Bäume in Eisenbahnstraße,NA
+29,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,7,8,9,11",NA
+29,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+29,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+29,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+29,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+29,F13,Wohnst du im Projektgebiet?,BI,1,NA
+29,F14,In welcher Straße wohnst du?,F,Eisenbahnstraße,NA
+29,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+29,F16,eMail,F,NA,NA
+29,F17,Alter,MC,3,NA
+29,F18,Unterwegs mit?,MC,4,NA
+30,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+30,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Park,NA
+30,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+30,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","2,2"
+30,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+30,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lärm
+30,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+30,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,9",NA
+30,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+30,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+30,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+30,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+30,F13,Wohnst du im Projektgebiet?,BI,0,NA
+30,F14,In welcher Straße wohnst du?,F,NA,NA
+30,F15,In welchem Stadtteil wohnst du?,F,Plagwitz,NA
+30,F16,eMail,F,NA,NA
+30,F17,Alter,MC,3,NA
+30,F18,Unterwegs mit?,MC,4,NA
+31,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+31,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+31,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+31,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4",NA
+31,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+31,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+31,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Gehweg,NA
+31,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,2,NA
+31,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+31,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+31,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+31,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+31,F13,Wohnst du im Projektgebiet?,BI,0,NA
+31,F14,In welcher Straße wohnst du?,F,Wurzner Straße,NA
+31,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+31,F16,eMail,F,NA,NA
+31,F17,Alter,MC,3,NA
+31,F18,Unterwegs mit?,MC,4,NA
+32,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+32,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Bauspielplatz,NA
+32,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Straße,NA
+32,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,3"
+32,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+32,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,keinen Vorgarten
+32,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Straßen, Dächer",NA
+32,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,8,11",NA
+32,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+32,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+32,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+32,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+32,F13,Wohnst du im Projektgebiet?,BI,1,NA
+32,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+32,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+32,F16,eMail,F,NA,NA
+32,F17,Alter,MC,4,NA
+32,F18,Unterwegs mit?,MC,4,NA
+33,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,4,6",NA
+33,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Rabet, Brücke Kohlweg",NA
+33,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,0,NA
+33,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,1"
+33,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Kreuzung Eisenbahnstraße Herrmann-Liebmann, Wenig Fahrradwege"
+33,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,mehr Spielfläche
+33,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Haltestellen, Parkplätze",NA
+33,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,9,10,11,12",NA
+33,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+33,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+33,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+33,F12,Wie möchtest du dich beteildigen?,MC,"2,3",NA
+33,F13,Wohnst du im Projektgebiet?,BI,1,NA
+33,F14,In welcher Straße wohnst du?,F,Paul-Heyse-Straße,NA
+33,F15,In welchem Stadtteil wohnst du?,F,Schönefeld,NA
+33,F16,eMail,F,angelika_semenow@yahoo.de,NA
+33,F17,Alter,MC,3,NA
+33,F18,Unterwegs mit?,MC,4,NA
+34,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+34,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,S-Bahnhöfe Benningsenstraße,NA
+34,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+34,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,5","1,1,3,2"
+34,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+34,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Klima"
+34,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+34,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,3,7,8",NA
+34,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr spaziergänge
+34,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+34,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+34,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+34,F13,Wohnst du im Projektgebiet?,BI,NA,NA
+34,F14,In welcher Straße wohnst du?,F,NA,NA
+34,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+34,F16,eMail,F,NA,NA
+34,F17,Alter,MC,NA,NA
+34,F18,Unterwegs mit?,MC,NA,NA
+35,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+35,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Kreuzung Ludwigstraße Hedwigstraße,NA
+35,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Ludwigstraße Einertstraße,keine Bäume
+35,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,1"
+35,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,mit Fahrrad auf der Eisenbahnstraße
+35,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Ästhetik, Klima"
+35,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Wegenetz,NA
+35,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,8,9,10",NA
+35,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Wichtigkeit klarer geworden
+35,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+35,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+35,F12,Wie möchtest du dich beteildigen?,MC,1,NA
+35,F13,Wohnst du im Projektgebiet?,BI,1,NA
+35,F14,In welcher Straße wohnst du?,F,Schultze-Delitzsch Straße,NA
+35,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+35,F16,eMail,F,p.fiedler@posteo.de,NA
+35,F17,Alter,MC,4,NA
+35,F18,Unterwegs mit?,MC,NA,NA
+36,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+36,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Mariannenstraße, Rabet, Eisenbahnstraße",NA
+36,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+36,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,1"
+36,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"unübersichtlich, Autoverkehr"
+36,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,schafft Möglichkeiten
+36,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Straßenrand,NA
+36,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,9",NA
+36,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr grün
+36,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+36,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+36,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+36,F13,Wohnst du im Projektgebiet?,BI,1,NA
+36,F14,In welcher Straße wohnst du?,F,Wurzener Straße,NA
+36,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+36,F16,eMail,F,NA,NA
+36,F17,Alter,MC,3,NA
+36,F18,Unterwegs mit?,MC,4,NA
+37,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+37,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Parks, Freiflächen",NA
+37,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Eisenbahnstraße,Drogenhandel
+37,F04,Wie bewegst du dich im Projekt fort?,MC,NA,NA
+37,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,"unebene Fußwege, schwer wenn alt"
+37,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,0,es gibt schn viel grün
+37,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,ebene Fußwege sind uns wichtiger,NA
+37,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,NA,NA
+37,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+37,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+37,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+37,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+37,F13,Wohnst du im Projektgebiet?,BI,1,NA
+37,F14,In welcher Straße wohnst du?,F,Ludwigstraße,NA
+37,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+37,F16,eMail,F,NA,NA
+37,F17,Alter,MC,"5,6",NA
+37,F18,Unterwegs mit?,MC,2,NA
+38,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,2,5",NA
+38,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+38,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,NA
+38,F04,Wie bewegst du dich im Projekt fort?,MC,"1,4","1,1"
+38,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+38,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lärm
+38,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Hildegardstraße,NA
+38,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"8,10,11",NA
+38,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+38,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+38,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+38,F12,Wie möchtest du dich beteildigen?,MC,"1,2,3,4",arabisch
+38,F13,Wohnst du im Projektgebiet?,BI,1,NA
+38,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+38,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+38,F16,eMail,F,1629834723,NA
+38,F17,Alter,MC,4,NA
+38,F18,Unterwegs mit?,MC,3,NA
+39,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+39,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+39,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+39,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","3,3"
+39,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+39,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Lebensgefühl, Klima, Insektenschutz"
+39,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Fassade, Dächer, Hochbeete",NA
+39,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8,12",NA
+39,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+39,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+39,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+39,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+39,F13,Wohnst du im Projektgebiet?,BI,0,NA
+39,F14,In welcher Straße wohnst du?,F,NA,NA
+39,F15,In welchem Stadtteil wohnst du?,F,Möckern,NA
+39,F16,eMail,F,NA,NA
+39,F17,Alter,MC,4,NA
+39,F18,Unterwegs mit?,MC,4,NA
+40,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+40,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Café-Meile,NA
+40,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,als Autofahrer auf Eisenbahnstraße,NA
+40,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3,4","3,3,3"
+40,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,Eisenbahnstraße,"zu wenig Platz für ÖPNV, Fahrräder, Autos Fußgänger"
+40,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Insektenschutz
+40,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Hochbeete, Straßenrand, Gemeinschaftsgärten",NA
+40,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,11,12",NA
+40,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+40,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+40,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+40,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+40,F13,Wohnst du im Projektgebiet?,BI,0,NA
+40,F14,In welcher Straße wohnst du?,F,NA,NA
+40,F15,In welchem Stadtteil wohnst du?,F,Möckern,NA
+40,F16,eMail,F,NA,NA
+40,F17,Alter,MC,4,NA
+40,F18,Unterwegs mit?,MC,NA,NA
+41,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+41,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,NA,NA
+41,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Radwege auf Eisenbahnstraße,NA
+41,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3,5","3,3,3,3"
+41,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+41,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+41,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Innenhöfe,NA
+41,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,3,5",NA
+41,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+41,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+41,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+41,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+41,F13,Wohnst du im Projektgebiet?,BI,0,NA
+41,F14,In welcher Straße wohnst du?,F,NA,NA
+41,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+41,F16,eMail,F,NA,NA
+41,F17,Alter,MC,4,NA
+41,F18,Unterwegs mit?,MC,NA,NA
+42,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+42,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Fahrradbrücke,NA
+42,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,NA
+42,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,5",NA
+42,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+42,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+42,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+42,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,NA,NA
+42,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+42,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+42,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+42,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+42,F13,Wohnst du im Projektgebiet?,BI,NA,NA
+42,F14,In welcher Straße wohnst du?,F,NA,NA
+42,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+42,F16,eMail,F,NA,NA
+42,F17,Alter,MC,NA,NA
+42,F18,Unterwegs mit?,MC,NA,NA
+43,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+43,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Elsapark,NA
+43,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Rabet,vermüllt
+43,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","2,1,3"
+43,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+43,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+43,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Dächer, Fassade",NA
+43,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,3,10",NA
+43,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+43,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+43,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+43,F12,Wie möchtest du dich beteildigen?,MC,7,NA
+43,F13,Wohnst du im Projektgebiet?,BI,0,NA
+43,F14,In welcher Straße wohnst du?,F,Kohlgartenstraße,NA
+43,F15,In welchem Stadtteil wohnst du?,F,Neustadt-Neuschönefeld,NA
+43,F16,eMail,F,constantin.kriegenbarg@stud.htwk-leipzig.de,NA
+43,F17,Alter,MC,4,NA
+43,F18,Unterwegs mit?,MC,4,NA
+44,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"3,7",Essen
+44,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Kohlweg,NA
+44,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+44,F04,Wie bewegst du dich im Projekt fort?,MC,"1,4","3,3"
+44,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+44,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+44,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Fußweg,NA
+44,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"2,7,8",NA
+44,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+44,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+44,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+44,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+44,F13,Wohnst du im Projektgebiet?,BI,0,NA
+44,F14,In welcher Straße wohnst du?,F,NA,NA
+44,F15,In welchem Stadtteil wohnst du?,F,Süden,NA
+44,F16,eMail,F,jesswagner@gmx.de,NA
+44,F17,Alter,MC,3,NA
+44,F18,Unterwegs mit?,MC,4,NA
+45,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,7,Essen
+45,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Kohlweg,NA
+45,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+45,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2",NA
+45,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,Eisenbahnstraße,Autoverkehr
+45,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Lebensgefühl, Klima"
+45,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Kleingärten, Fassade, Dächer",NA
+45,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,8,12",NA
+45,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Mehr Zeit im freien
+45,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+45,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+45,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+45,F13,Wohnst du im Projektgebiet?,BI,0,NA
+45,F14,In welcher Straße wohnst du?,F,NA,NA
+45,F15,In welchem Stadtteil wohnst du?,F,Südvorstadt,NA
+45,F16,eMail,F,NA,NA
+45,F17,Alter,MC,3,NA
+45,F18,Unterwegs mit?,MC,4,NA
+46,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+46,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brothers,NA
+46,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+46,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","1,1"
+46,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,NA,NA
+46,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+46,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,überall,NA
+46,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,9,NA
+46,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+46,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+46,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+46,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+46,F13,Wohnst du im Projektgebiet?,BI,1,NA
+46,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+46,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+46,F16,eMail,F,NA,NA
+46,F17,Alter,MC,4,NA
+46,F18,Unterwegs mit?,MC,4,NA
+47,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+47,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Kohlweg,NA
+47,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+47,F04,Wie bewegst du dich im Projekt fort?,MC,1,NA
+47,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+47,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Luftqualität, Ästhetik"
+47,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Straßenraänder in Kohlgartenstraße, Balkone",NA
+47,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"8,13",Mülleimer
+47,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,NA,NA
+47,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+47,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+47,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+47,F13,Wohnst du im Projektgebiet?,BI,0,NA
+47,F14,In welcher Straße wohnst du?,F,NA,NA
+47,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+47,F16,eMail,F,NA,NA
+47,F17,Alter,MC,3,NA
+47,F18,Unterwegs mit?,MC,4,NA
+48,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+48,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Kohlweg,NA
+48,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Kreuzung Eisenbahnstraße Herrmann-Liebmann,NA
+48,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,5","1,1,2"
+48,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+48,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Klima
+48,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+48,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"3,8,13",Freisitze
+48,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr Bänke und Mülleimer
+48,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+48,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+48,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+48,F13,Wohnst du im Projektgebiet?,BI,0,NA
+48,F14,In welcher Straße wohnst du?,F,Kohlgartenstraße,NA
+48,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+48,F16,eMail,F,NA,NA
+48,F17,Alter,MC,4,NA
+48,F18,Unterwegs mit?,MC,NA,NA
+49,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+49,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Mariannenpark, Rabet",NA
+49,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Edlichstaße,NA
+49,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,2,2"
+49,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+49,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Biodiversität
+49,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Parkbuchten, Kübel",NA
+49,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,7,8,9,10",NA
+49,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Erholungsräume
+49,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,NA,NA
+49,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+49,F12,Wie möchtest du dich beteildigen?,MC,"1,3",NA
+49,F13,Wohnst du im Projektgebiet?,BI,1,NA
+49,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+49,F15,In welchem Stadtteil wohnst du?,F,Volkmarsdorf,NA
+49,F16,eMail,F,voirsue@freenet.de,NA
+49,F17,Alter,MC,4,NA
+49,F18,Unterwegs mit?,MC,3,NA
+50,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+50,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Mariannenpark, Rabet",NA
+50,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Eastpark,Müll
+50,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,3","1,1,2"
+50,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Autoverkehr, Polizei"
+50,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+50,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Brachen, vor jedem Haus",NA
+50,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,7,8,9,11,13",Graffitiflächen
+50,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+50,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+50,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+50,F12,Wie möchtest du dich beteildigen?,MC,1,NA
+50,F13,Wohnst du im Projektgebiet?,BI,1,NA
+50,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+50,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+50,F16,eMail,F,NA,NA
+50,F17,Alter,MC,4,NA
+50,F18,Unterwegs mit?,MC,3,NA
+51,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,2",NA
+51,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Eastpark, Platz an der Lukaskirche",NA
+51,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,"Kreuzung Eisenbahnstraße Herrmann-Liebmann, Rabet",NA
+51,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,1"
+51,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+51,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+51,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Hochbeete,NA
+51,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,7,8,10,11",NA
+51,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+51,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+51,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+51,F12,Wie möchtest du dich beteildigen?,MC,"1,2,3,4",italienisch
+51,F13,Wohnst du im Projektgebiet?,BI,1,NA
+51,F14,In welcher Straße wohnst du?,F,Ludwigstraße,NA
+51,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+51,F16,eMail,F,federicafarfariello7@gmail.com,NA
+51,F17,Alter,MC,4,NA
+51,F18,Unterwegs mit?,MC,4,NA
+52,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+52,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+52,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+52,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4",NA
+52,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+52,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+52,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Hochbeete auf Gehwegen,NA
+52,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,2,NA
+52,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+52,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+52,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+52,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+52,F13,Wohnst du im Projektgebiet?,BI,1,NA
+52,F14,In welcher Straße wohnst du?,F,Herrmann-Liebmann-Straße,NA
+52,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+52,F16,eMail,F,NA,NA
+52,F17,Alter,MC,4,NA
+52,F18,Unterwegs mit?,MC,NA,NA
+53,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+53,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Analog Café,NA
+53,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Otto-Runki-Platz,NA
+53,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2","1,1"
+53,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Autoverkehr
+53,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+53,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Bäume,NA
+53,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,2,NA
+53,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+53,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+53,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+53,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+53,F13,Wohnst du im Projektgebiet?,BI,1,NA
+53,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+53,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+53,F16,eMail,F,NA,NA
+53,F17,Alter,MC,4,NA
+53,F18,Unterwegs mit?,MC,4,NA
+54,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+54,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Spielplatz an der Kirche,NA
+54,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Eisenbahnstraße,NA
+54,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2",NA
+54,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+54,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,NA,NA
+54,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,1,Ästhetik
+54,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,6,8,9,10,12",NA
+54,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,mehr zu Fuß und Rad unterwegs
+54,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+54,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+54,F12,Wie möchtest du dich beteildigen?,MC,3,NA
+54,F13,Wohnst du im Projektgebiet?,BI,0,NA
+54,F14,In welcher Straße wohnst du?,F,NA,NA
+54,F15,In welchem Stadtteil wohnst du?,F,Hamburg,NA
+54,F16,eMail,F,david.mueller@gmail.com,NA
+54,F17,Alter,MC,4,NA
+54,F18,Unterwegs mit?,MC,NA,NA
+55,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,1,NA
+55,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brücke Herrmann-Liebmann,NA
+55,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Eisenbahnstraße,NA
+55,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,4","1,1,2"
+55,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+55,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Abwechslung
+55,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,NA,NA
+55,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,8",NA
+55,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+55,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,0,NA
+55,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,0,NA
+55,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+55,F13,Wohnst du im Projektgebiet?,BI,1,NA
+55,F14,In welcher Straße wohnst du?,F,Mariannenstraße,NA
+55,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+55,F16,eMail,F,NA,NA
+55,F17,Alter,MC,4,NA
+55,F18,Unterwegs mit?,MC,4,NA
+56,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,2,5",NA
+56,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Mariannenpark,NA
+56,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Aldi,NA
+56,F04,Wie bewegst du dich im Projekt fort?,MC,"1,4",NA
+56,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+56,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,NA
+56,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Hildegardstraße,NA
+56,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,6,7,10",NA
+56,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+56,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+56,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+56,F12,Wie möchtest du dich beteildigen?,MC,"1,3",NA
+56,F13,Wohnst du im Projektgebiet?,BI,1,NA
+56,F14,In welcher Straße wohnst du?,F,Eisenbahnstraße,NA
+56,F15,In welchem Stadtteil wohnst du?,F,Projektgebiet,NA
+56,F16,eMail,F,agriliapo@hotmail.com,NA
+56,F17,Alter,MC,4,NA
+56,F18,Unterwegs mit?,MC,2,NA
+57,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,3,NA
+57,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Rabet,NA
+57,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,Straßenbahn,NA
+57,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","2,2"
+57,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,Angst vor Gewalt
+57,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,"Klima, Biodiversität, Ästhetik"
+57,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Straßen mit weniger Autos,NA
+57,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"7,8,9,10,12,13",chillen
+57,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,0,NA
+57,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+57,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+57,F12,Wie möchtest du dich beteildigen?,MC,1,NA
+57,F13,Wohnst du im Projektgebiet?,BI,0,NA
+57,F14,In welcher Straße wohnst du?,F,NA,NA
+57,F15,In welchem Stadtteil wohnst du?,F,Connewitz,NA
+57,F16,eMail,F,NA,NA
+57,F17,Alter,MC,1,NA
+57,F18,Unterwegs mit?,MC,NA,NA
+58,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"2,3",NA
+58,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,Brothers,NA
+58,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,keinen,NA
+58,F04,Wie bewegst du dich im Projekt fort?,MC,"1,3","3,3"
+58,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,1,NA
+58,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Lebensgefühl
+58,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,"Baumscheiben, Brachflächen",NA
+58,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,2,3,6,7,8,9,10,11",NA
+58,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,Bedarf nach mehr Freiflächen
+58,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+58,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,1,NA
+58,F12,Wie möchtest du dich beteildigen?,MC,"1,2,3,6",NA
+58,F13,Wohnst du im Projektgebiet?,BI,0,NA
+58,F14,In welcher Straße wohnst du?,F,NA,NA
+58,F15,In welchem Stadtteil wohnst du?,F,Lindenau,NA
+58,F16,eMail,F,sophia@eexistence.de,NA
+58,F17,Alter,MC,4,NA
+58,F18,Unterwegs mit?,MC,NA,NA
+59,F01,Was ist deine Verbindung zum Leipziger Osten?,MC,"1,7",Schule
+59,F02,Was ist dein Lieblingsort im öffentlichen Raum im Projektgebiet,F,"Rabet, Bauspielplatz",NA
+59,F03,"Wo hälst du dich im öffentlichen Raum nicht gerne auf, warum?",F,NA,NA
+59,F04,Wie bewegst du dich im Projekt fort?,MC,"1,2,8","1,1,1"
+59,F05,Fühlst du dich auf deinen Verkehrswegen im Projektgebiet sicher?,BI,0,"Eisenbahnstraße, Hildegardstraße"
+59,F06,Ist Begrünung im Straßenrau wichtig für dich?,Bi,1,Ästhetik
+59,F07,Wo kann Begrünung in deiner Nachbarschaft stattfinden,F,Straße,NA
+59,F08,Wofür wünschst du dir mehr Platz im öffentlichen Raum?,MC,"1,1",NA
+59,F09,Haben sich deine Wünsche an den öffentlichen Raum durch Corona verändert?,BI,1,weniger Müll
+59,F10,Hast du Lust Straßenraum in deiner Nachbarschaft mitzugestalten?,BI,1,NA
+59,F11,Hast du Lust bei Aktionen des SUPERBLOCKS e.V. mitzuhelfen?,BI,NA,NA
+59,F12,Wie möchtest du dich beteildigen?,MC,NA,NA
+59,F13,Wohnst du im Projektgebiet?,BI,1,NA
+59,F14,In welcher Straße wohnst du?,F,Hildegardstraße,NA
+59,F15,In welchem Stadtteil wohnst du?,F,NA,NA
+59,F16,eMail,F,Noa,NA
+59,F17,Alter,MC,1,NA
+59,F18,Unterwegs mit?,MC,4,NA

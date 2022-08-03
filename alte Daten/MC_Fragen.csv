@@ -1,0 +1,47 @@
+MC_F_ID,MC_A_ID,MC_Antwort
+F01,1,ich wohne hier
+F01,2,ich arbeite hier
+F01,3,ich bin zu Besuch hier
+F01,4,ich bin zum einkaufen hier
+F01,5,ich bringe mein Kinder zur Bildungseinrichtung
+F01,6,ich besuche eine kulturelle oder soziale Einrichtung/Veranstaltung
+F01,7,sonstiges
+F04,1,zu Fuß
+F04,2,Fahrrad/E-Fahrrad
+F04,3,ÖPNV
+F04,4,eigenes Auto
+F04,5,Carsharing
+F04,6,Taxi
+F04,7,"Lieferfahrzeug,Transport,Pflegedienst"
+F04,8,E-Roller
+F04,9,sonstiges
+F08,1,Fortbewegung zu Fuß
+F08,2,Fahrradfahren
+F08,3,Fahrradparken
+F08,4,Autofahren
+F08,5,Auto parken
+F08,6,Anlieferung
+F08,7,Spaziergänge im Grünen
+F08,8,Erholung/Menschen treffen
+F08,9,Bewegung/Sportflächen
+F08,10,Spielen
+F08,11,Gärtnern
+F08,12,Haustiere / Gassi gehen
+F08,13,sonstiges
+F12,1,Eigene Ideen für Aktionen einbringen
+F12,2,Betreuung von Aktionen im Straßenraum
+F12,3,Werbung
+F12,4,Übersetzungen
+F12,5,Fördermitglied werden
+F12,6,in einen Bürgerrat an Planungsprozessen mitwirken
+F12,7,sonstiges
+F17,1,Bis 10
+F17,2,10-16
+F17,3,16-27
+F17,4,28-45
+F17,5,45-60
+F17,6,Ab 60
+F18,1,Rollator
+F18,2,Rollstuhl
+F18,3,Kinderwagen
+F18,4,nichts davon
