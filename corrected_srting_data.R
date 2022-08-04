@@ -19,3 +19,20 @@ for (i in 1:nrow(test)){
   }
 }
 write.csv(test,"corrected_Data_Umfrage_Str.csv")
+
+
+##NAMEN EINTAUSCHEN
+
+all <- excel_sheets("zusammenfassung.xlsx")
+list <- lapply(all, function(x) {          # Read all sheets to list
+  as.data.frame(read_excel("zusammenfassung.xlsx", sheet = x)) } )
+
+new_qu_free_answered <- qu_free_answered
+
+for (element in answers){
+  if(is.na(element)){next}
+  
+}
+
+ggplot(plot_table, aes(as.character(split_up), Freq ,width=.95)) +
+  geom_col()
