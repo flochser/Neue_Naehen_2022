@@ -4,6 +4,7 @@ library(stringr)
 library(extrafont)
 library(remotes)
 library(readxl)
+library(formattable)
 #remotes::install_version("Rttf2pt1", version = "1.3.8")
 extrafont::font_import(path = "/home/ff/WiLaLe/CD", pattern = "Drescher Grotesk BT SemiBold")
 
@@ -33,6 +34,11 @@ bi_table_list <- list()
 
 #FUNCTIONS
 
+table <- mc_table_list[[3]]
+print_table<- tibble(table$ans_qu,table$ANSWER,table$percentage)
+colnames(print_table)<- c("Antwort","Anzahl", "Prozent")
+print_table <- print_table[order(print_table$Anzahl,decreasing = TRUE),]
+formattable(print_table,align=c("l","c","r"))
 
 
 ##SUM UP TABLES FOR PLOTTING
