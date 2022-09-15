@@ -63,7 +63,7 @@ for (qu in unique(qu_multichoice$QUESTION_ID)) {
   table <- qu_multichoice[qu_multichoice$QUESTION_ID == qu,]
   sum_table <- aggregate(ANSWER ~ CHOICE_ID, table,sum)
   sum_table$ans_qu <- ans_strings_multichoice[ans_strings_multichoice$MC_F_ID == qu,3]
-  sum_table$percentage <- sum_table$ANSWER/participants*100
+  sum_table$percentage <- round(sum_table$ANSWER/participants*100,digits = 1)
   sum_table$QUESTION_ID <- rep(qu,nrow(sum_table))
   mc_table_list <- append(mc_table_list,list(sum_table))  
   question_list <- append(question_list,qu)
