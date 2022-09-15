@@ -7,7 +7,7 @@ library(readxl)
 #remotes::install_version("Rttf2pt1", version = "1.3.8")
 extrafont::font_import(path = "/home/ff/WiLaLe/CD", pattern = "Drescher Grotesk BT SemiBold")
 
-setwd("/home/ff/WiLaLe/Superblocks/Umfrage/Neue_Naehen_2022")
+setwd("/home/ff/WiLaLe/Superblocks/Umfrage/R_Umfrage/Neue_Naehen_2022/")
 
 #LOAD DATA
 
@@ -33,34 +33,6 @@ bi_table_list <- list()
 
 #FUNCTIONS
 
-prep_pie_chart <- function(x) {
-  x <- x %>%
-    arrange(desc(ANSWER)) %>%
-    mutate(ans_qu = str_wrap(ans_qu,40)) %>%
-    mutate(ans_qu = factor(ans_qu,ans_qu)) %>%
-    mutate(prop = ANSWER / sum(x$ANSWER) *100) %>%
-    mutate(ypos = cumsum(prop) - 0.5 *prop)
-}
-
-make_barplot_MC <- function(data,abscissa,ordinate) {
-  ggplot(data, aes(x=abscissa, y=ordinate, fill=str_wrap(ans_qu,40),width=.95)) +
-    geom_bar(stat="identity", width=1, color="darkgrey") +
-    ggtitle(questions[questions$question_ID=="F01",2]) +
-    theme(text=element_text(family="Drescher Grotesk BT Semibold"), 
-          legend.title=element_blank(),
-          plot.title = element_text(size = 21, hjust = -1, vjust=.5),
-          legend.text = element_text(size = 11),
-          axis.title.x=element_blank(),
-          axis.text.x=element_blank(),
-          axis.ticks.x=element_blank())+
-    ylab("")
-}
-
-make_barplot_free <- function(data,abscissa,ordinate,title="default") {
-  ggplot(data, aes(x=abscissa, y=ordinate, fill=str_wrap(split_up,40),width=.95)) +
-  geom_bar(stat="identity", width=1, color="darkgrey") +
-  ggtitle(title)
-}
 
 
 ##SUM UP TABLES FOR PLOTTING
@@ -121,6 +93,36 @@ names(free_table_list) <- ex_sheets
 
 rm("qu","table","yes","no","na")
 
+prep_pie_chart <- function(x) {
+  x <- x %>%
+    arrange(desc(ANSWER)) %>%
+    mutate(ans_qu = str_wrap(ans_qu,40)) %>%
+    mutate(ans_qu = factor(ans_qu,ans_qu)) %>%
+    mutate(prop = ANSWER / sum(x$ANSWER) *100) %>%
+    mutate(ypos = cumsum(prop) - 0.5 *prop)
+}
+
+make_barplot_MC <- function(data,abscissa,ordinate) {
+  ggplot(data, aes(x=abscissa, y=ordinate, fill=str_wrap(ans_qu,40),width=.95)) +
+    geom_bar(stat="identity", width=1, color="darkgrey") +
+    ggtitle(questions[questions$question_ID=="F01",2]) +
+    theme(text=element_text(family="Drescher Grotesk BT Semibold"), 
+          legend.title=element_blank(),
+          plot.title = element_text(size = 21, hjust = -1, vjust=.5),
+          legend.text = element_text(size = 11),
+          axis.title.x=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank())+
+    ylab("")
+}
+
+make_barplot_free <- function(data,abscissa,ordinate,title="default") {
+  ggplot(data, aes(x=abscissa, y=ordinate, fill=str_wrap(split_up,40),width=.95)) +
+    geom_bar(stat="identity", width=1, color="darkgrey") +
+    ggtitle(title)
+}
+
+
 ###PLOTS
 
 ggplot(F18_sum_table, aes(x="", y=prop, fill=ans_qu)) +
@@ -135,3 +137,4 @@ ggplot(F18_sum_table, aes(x="", y=prop, fill=ans_qu)) +
   #labs(title = questions[questions$question_ID=="F01",2]) +
   geom_text(aes(x = 1.2, y = 100 - ypos, label = ANSWER), color = "black", size=4) +
   scale_fill_brewer(palette="Set3")
+
